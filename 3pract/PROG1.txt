@@ -8,3 +8,4 @@
 8.acelerar - https://dle.rae.es/acelerar?m=form
 9.mesa - https://dle.rae.es/mesa?m=form
 10.silla - https://dle.rae.es/silla?m=form
+11.sopa - https://dle.rae.es/sopa?m=form
