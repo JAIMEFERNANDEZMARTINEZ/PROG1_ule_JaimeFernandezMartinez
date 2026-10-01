@@ -1,0 +1,10 @@
+1.aceituna - https://dle.rae.es/aceituna
+2.asteroide - https://dle.rae.es/asteroide?m=wotd2
+3.teléfono - https://dle.rae.es/tel%C3%A9fono?m=form
+4.teclado - https://dle.rae.es/teclado?m=form
+5.ratón - https://dle.rae.es/rat%C3%B3n?m=form
+6.rueda - https://dle.rae.es/rueda?m=form
+7.cable - https://dle.rae.es/cable?m=form
+8.acelerar - https://dle.rae.es/acelerar?m=form
+9.mesa - https://dle.rae.es/mesa?m=form
+10.silla - https://dle.rae.es/silla?m=form
